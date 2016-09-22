@@ -1,0 +1,278 @@
+OVERVIEW OF RELEVANT AND IRRELEVANT DOCUMTENS FROM THE QUERIES' TOPS 10
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ALCOHOL & YOUNGSTERS QUERY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+['alcoholconsumptie', 'alcohol', 'jeugd', 'jongeren']
+    Cosine top 10   Okapi top 10
+1   6235623         6235623
+2   6174873         6206569
+3   6174893         6206861
+4   6206569         6174873
+5   2008473         6174893
+6   6235595         1804628
+7   1804628         2008473
+8   6206576         6235595
+9   2008494         6206576
+10  6235557         6235557
+
+Cosine top 10:
+
+6235623, RELEVANT: "...dat de verkoop van alcohol aan jongeren onder de 16 jaar
+niet toegestaan is; constaterende, dat 85% van de jongeren onder de 16 jaar toch
+in supermarkten in Nederland alcohol kan kopen..."
+
+6174873, IRRELEVANT: dit document gaat wel over jongeren, maar niet over
+alcohol of hun alcoholgebruik.
+
+6174893, IRRELEVANT: dit document gaat wel over jongeren, maar niet over
+alcohol of hun alcoholgebruik.
+
+6206569, IRRELEVANT: dit document gaat wel over jongeren, maar niet over
+alcohol of hun alcoholgebruik.
+
+2008473, RELEVANT: "...dat de preventie van alcoholgebruik door jongeren
+alge-meen van het grootste belang..."
+
+6235595, RELEANT: "...alcoholgebruik zeer slecht is voor de ontwikkeling van
+jongeren..."
+
+1804628, IRRELEVANT: dit document gaat wel over jeugd, maar niet over
+alcohol of hun alcoholgebruik.
+
+6206576, IRRELEVANT: dit document gaat wel over jeugd, maar niet over
+alcohol of hun alcoholgebruik.
+
+2008494, RELEVANT: "...jongeren in toenemende mate en op steeds jongere leeftijd
+alcohol gebruiken..."
+
+6235557, RELEVANT: "...mogelijkheden om alcoholpromoties gericht op jongeren..."
+
+--------------------------------------------------------------------------------
+
+Additional document from the Okapi top 10 that has not been mentioned before:
+
+6206861, RELEVANT: "...dat overmatig alcoholgebruik tot ernstige schade aan de
+gezondheid van jongeren kan leiden..."
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+SCHOOLS & MONEY QUERY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+['financiering','geld','school','onderwijs','hogeschool','mbo','universiteit']
+    Cosine top 10   Okapi top 10
+1   1960857     2041049
+2   1960828     5776025
+3   5776025     2013192
+4   2055986     2013417
+5   2056001     2055945
+6   2043039     2013230
+7   2013230     2041027
+8   1977485     1895904
+9   2041049     5721902
+10  1930520     1960857
+
+1960857, RELEVANT: "...waarbij een school vergoeding ontvangt naar rato van ..."
+
+1960828, RELEVANT: "...waarbij een school vergoeding ontvangt naar rato van het
+aantal uren..."
+
+5776025, RELEVANT: "...voor de bekostiging van de Open Universiteit zoveel..."
+
+2055986, RELEVANT: "...verzoekt de regering de bekostiging van het voortgezet
+speciaal onderwijs..."
+
+2056001, RELEVANT: "...dat de bekostiging van de speciale school voor
+basisonderwijs ongeveer 40%..."
+
+2043039, RELEVANT: "...Technische Hogeschool Rijswijk naar verluidt voor bijna
+2,3 mln. euro aan subsidies onterecht..."
+
+2013230, RELEVANT: "...voortgezet onderwijs in verband met de invoering van een
+leerlinggebonden financiering ..."
+
+1977485, IRRELEVANT: dit document gaat wel over het beleid van de universiteit,
+maar noemt niet specifiek geldzaken.
+
+2041049, RELEVANT: "...op het voortgezet onderwijs in verband met de invoering
+van een leerlinggebonden financiering..."
+
+1930520, IRRELEVANT: dit document gaat wel over onderwijs,
+maar noemt niet specifiek geldzaken.
+
+--------------------------------------------------------------------------------
+
+Additional documents from the Okapi top 10 that has not been mentioned before:
+
+2013192, RELEVANT: "...reguliere school voor hun kind in mindering worden
+gebracht op het budget voor de ambulante begeleiding..."
+
+2013417, IRRELEVANT: dit document gaat wel over onderwijs,
+maar noemt niet specifiek geldzaken.
+
+2055945, RELEVANT: "...over de financiering van het speciaal onderwijs..."
+
+2041027, RELEVANT: "...het (voortgezet)speciaal onderwijs zo wordt ingericht
+dat het geld beschikbaar komt..."
+
+1895904, RELEVANT: "...de verschillen in financiering tussen MBO enerzijds en
+leerlingwezen anderzijds..."
+
+5721902, RELEVANT: "...dat geld dat is uitgetrokken voor leerlingbegeleiding,
+in de school vaak niet..."
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+COW MILK QUERY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+['cow', 'milk', 'european', 'europe', 'regulations']
+    Cosine top 10   Okapi top 10
+1   1980555     1980555
+2   2061569     2061569
+3   6224665     6224665
+4   6237510     6237510
+5   1867930     2027759
+6   2027759     1867930
+7   6282972     1817597
+8   1817597     2025829
+9   2025829     1853787
+10  1853787     1940451
+
+1980555, IRRELEVANT: dit document gaat niet over koeien en niet over melk.
+
+2061569, IRRELEVANT: dit document gaat niet over koeien en niet over melk.
+
+6224665, IRRELEVANT: dit document gaat niet over koeien en niet over melk.
+
+6237510, IRRELEVANT: dit document gaat niet over koeien en niet over melk.
+
+1867930, IRRELEVANT: dit document gaat niet over koeien en niet over melk.
+
+2027759, IRRELEVANT: dit document gaat niet over koeien en niet over melk.
+
+6282972, IRRELEVANT: dit document gaat niet over koeien en niet over melk.
+
+1817597, IRRELEVANT: dit document gaat niet over koeien en niet over melk.
+
+2025829, IRRELEVANT: dit document gaat niet over koeien en niet over melk.
+
+1853787, IRRELEVANT: dit document gaat niet over koeien en niet over melk.
+
+--------------------------------------------------------------------------------
+
+Additional document from the Okapi top 10 that has not been mentioned before:
+
+1940451, IRRELEVANT: dit document gaat niet over koeien en niet over melk.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+VOTING SCHEME QUERY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+['regulering', 'stemmen', 'democratie', 'stemhokje', 'potlood', 'democratie',
+'stemgerechtigden', 'verandering']
+    Cosine top 10   Okapi top 10
+1   6156884     1966397
+2   1920067     2007874
+3   6156913     6156884
+4   1966397     2027264
+5   1971879     6156913
+6   5642212     1920067
+7   2030923     5642212
+8   1971859     1971879
+9   1944267     2030923
+10  5837121     2011782
+
+6156884, IRRELEVANT: beschrijft geen aanpassing aan huidige regeringsvorm.
+
+1920067, IRRELEVANT: beschrijft geen aanpassing aan huidige regeringsvorm.
+
+6156913, IRRELEVANT: beschrijft geen aanpassing aan huidige regeringsvorm.
+
+1966397, IRRELEVANT: gaat over de democratie in Turkije.
+
+1971879, IRRELEVANT: gaat over de democratie in Suriname.
+
+5642212, IRRELEVANT: beschrijft geen aanpassing aan huidige regeringsvorm.
+
+2030923, IRRELEVANT: gaat over de Europese grondwet.
+
+1971859, IRRELEVANT: gaat over de democratie in Suriname.
+
+1944267, IRRELEVANT: beschrijft geen aanpassing aan huidige regeringsvorm.
+
+5837121, IRRELEVANT: beschrijft geen aanpassing aan huidige regeringsvorm.
+
+--------------------------------------------------------------------------------
+
+Additional documents from the Okapi top 10 that has not been mentioned before:
+
+2007874, IRRELEVANT: beschrijft geen aanpassing aan huidige regeringsvorm.
+
+2027264, IRRELEVANT: beschrijft geen aanpassing aan huidige regeringsvorm.
+
+2011782, IRRELEVANT: beschrijft geen aanpassing aan huidige regeringsvorm.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+HEALTH QUERY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+['medisch', 'geneeskunde', 'gezondheid', 'wetenschap', 'wetenschappelijk',
+'onderzoek', 'vooruitgang']
+    Cosine top 10   Okapi top 10
+1   1809215     5941788
+2   1962264     2062541
+3   1819721     1929078
+4   1925400     1935360
+5   1982639     1935276
+6   2049228     2049228
+7   2062541     1952374
+8   1955348     1984899
+9   1880528     2014517
+10  6277699     6070048
+
+1809215, IRRELEVANT: gaat wel over geneeskunde, maar niet over vooruitgangen.
+
+1962264, IRRELEVANT: gaat juist over gebreken in de gezondheidszorg.
+
+1819721, IRRELEVANT: gaat over de financiering van gezondheidszorg.
+
+1925400, IRRELEVANT: gaat over land- en tuinbouw onderzoek.
+
+1982639, IRRELEVANT: gaat niet over gezondheidszorg.
+
+2049228, IRRELEVANT: gaat wel over geneeskunde, maar niet over vooruitgangen.
+
+2062541, IRRELEVANT: gaat niet over gezondheidszorg.
+
+1955348, IRRELEVANT: gaat niet over gezondheidszorg.
+
+1880528, RELEVANT: "...dat de regering experimenteel onderzoek met embry'os bij
+uitzondering toelaatbaar acht..."
+
+6277699, IRRELEVANT: gaat wel over geneeskunde, maar niet over vooruitgangen.
+
+--------------------------------------------------------------------------------
+
+Additional documents from the Okapi top 10 that has not been mentioned before:
+
+5941788, RELEVANT: "...dat het moratorium op het speciaal kweken van menselijke
+embryo's medisch-wetenschappelijk onderzoek en daarmee vooruitgang in de weg
+staat..."
+
+1929078, IRRELEVANT: gaat niet over gezondheidszorg.
+
+1935360, IRRELEVANT: gaat over de financiering van gezondheidszorg.
+
+1935276, IRRELEVANT: gaat over de financiering van gezondheidszorg.
+
+1952374, IRRELEVANT: gaat over de subsidiëring van gezondheidszorg.
+
+1984899, IRRELEVANT: wederom over kostenbeheersing.
+
+2014517, IRRELEVANT: gaat wel over geneeskunde, maar niet over vooruitgangen.
+
+6070048, RELEVANT: "... belemmering vormt voor veelbelovende ontwikkelingen op
+het gebied van de geneeskunde..."
+
+
